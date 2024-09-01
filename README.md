@@ -22,7 +22,7 @@ Here are some examples of the game in action
 
 ### 2. Combat System
 *Sword combos and assassination mechanics in action*
-![Combat](path_to_image)
+![Combat](https://github.com/sjpjoshi/LostWorld/blob/main/Example2.gif)
 
 ## Getting Started
 1. Clone the repository:
