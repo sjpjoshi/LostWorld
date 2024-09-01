@@ -24,10 +24,6 @@ This game is still a bit incomplete however you can see the git commit messages 
 *Sword combos and assassination mechanics in action*
 ![Combat](path_to_image)
 
-### 3. AI Behavior and Damage System
-*Enemies and animals reacting based on the dynamic AI systems*
-![AI Behavior](path_to_image)
-
 ## Getting Started
 1. Clone the repository:
     ```bash
@@ -36,10 +32,17 @@ This game is still a bit incomplete however you can see the git commit messages 
 
 2. Open the project in Unreal Engine 5 and build from the editor.
 
+## Bugs to be addressed
+- [ ] Animals sometimes don't load in
+- [ ] Enemy loses focus of player easily
+- [ ] Strange climbing bug: When you read the top it will clip through the wall
+
 # Note
 Once the game is complete there will be a executable file for Windows, Mac, and Linux in a folder so you don't have to clone the repo. 
 
 ## Roadmap
+- [ ] Open World Map
+- [ ] Map marker system
 - [ ] Complete player progression system with more equipment and quests.
 - [ ] Refine AI behavior to include more complex combat strategies.
 - [ ] Implement add magic abilities.
