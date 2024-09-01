@@ -14,7 +14,7 @@ This game is still a bit incomplete however you can see the git commit messages 
 - **Damage System**: Designed a dynamic damage system affecting players, enemies, and animals, linked to AI and combat mechanics.
 
 ## Showcase
-*Showcase upcoming features with GIFs or screenshots when available*
+Here are some examples of the game in action
 
 ### 1. Locomotion System
 *Example of the character vaulting and climbing through various environments*
