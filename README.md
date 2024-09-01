@@ -38,6 +38,7 @@ Here are some examples of the game in action
 - [ ] Strange climbing bug: When you read the top it will clip through the wall
 
 # Note
+The gif files are incredibly large but I also used a online converter, it looks slow however it does run fast. 
 Once the game is complete there will be a executable file for Windows, Mac, and Linux in a folder so you don't have to clone the repo. 
 
 ## Roadmap
