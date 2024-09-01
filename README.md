@@ -18,7 +18,7 @@ Here are some examples of the game in action
 
 ### 1. Locomotion System
 *Example of the character vaulting and climbing through various environments*
-![Locomotion](path_to_image)
+![Locomotion](https://github.com/sjpjoshi/LostWorld/blob/main/Example1.gif)
 
 ### 2. Combat System
 *Sword combos and assassination mechanics in action*
