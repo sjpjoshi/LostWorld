@@ -2,7 +2,7 @@
 # Lost World RPG
 
 ## Overview
-Lost World RPG is a work-in-progress game built in Unreal Engine 5. It features core gameplay systems focused on locomotion, combat, and player progression, with dynamic AI behaviors for enemies and animals.
+Lost World RPG is a [work-in-progress] game built in Unreal Engine 5. It features core gameplay systems focused on locomotion, combat, and player progression, with dynamic AI behaviors for enemies and animals.
 This game is still a bit incomplete however you can see the git commit messages to see currently what is being add to the game. 
 
 ## Features
